@@ -1,3 +1,3 @@
 # Blockchain
 
-Simple blockchain implementation for learning how blockchain mining works
+Simple blockchain implementation projecr for learning how blockchain mining works
